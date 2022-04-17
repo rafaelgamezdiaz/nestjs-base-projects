@@ -4,6 +4,7 @@
   "description": "Example Project Nest from Scratch",
   "main": "index.js",
   "scripts": {
+    "nest start": "npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rafael Gamez Diaz",

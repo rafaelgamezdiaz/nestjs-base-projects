@@ -5,7 +5,7 @@ import {NestFactory} from "@nestjs/core";
 export class AppController {
     @Get()
     index() {
-        return 'Hola NestJs';
+        return 'Hi NestJs!!';
     }
 }
 
